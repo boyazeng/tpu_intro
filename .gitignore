@@ -1,0 +1,10 @@
+*.pyc
+*.pth
+*log*.txt
+*.png
+*.jpg
+*.jpeg
+.DS_store
+.idea
+*Zone.Identifier
+*.pkl
