@@ -1,0 +1,7 @@
+*.pyc
+*.pth
+*log*.txt
+.DS_store
+.idea
+*Zone.Identifier
+*.pkl
